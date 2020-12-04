@@ -1,1 +1,2 @@
- echo "export PATH=/Library/Frameworks/Python.framework/Versions/3.90/bin:$PATH" ~/.bash_profile
+Hello git 
+This is test
